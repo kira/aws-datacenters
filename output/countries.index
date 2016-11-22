@@ -155,7 +155,7 @@ MT;Malta;eu-west-1
 MU;Mauritius;ap-south-1
 MV;Maldives;ap-south-1
 MW;Malawi;ap-south-1
-MX;Mexico;us-west-1
+MX;Mexico;us-east-1
 MY;Malaysia;ap-southeast-1
 MZ;Mozambique;ap-south-1
 NA;Namibia;eu-west-1
@@ -174,13 +174,12 @@ O1;Other Country;us-east-1
 OM;Oman;ap-south-1
 PA;Panama;us-east-1
 PE;Peru;us-east-1
-PF;French Polynesia;us-west-1
+PF;French Polynesia;us-west-2
 PG;Papua New Guinea;ap-southeast-2
 PH;Philippines;ap-southeast-1
 PK;Pakistan;ap-south-1
 PL;Poland;eu-west-1
 PM;Saint Pierre and Miquelon;us-east-1
-PN;Pitcairn;us-west-1
 PR;Puerto Rico;us-east-1
 PS;Palestinian Territory;ap-south-1
 PT;Portugal;eu-west-1
