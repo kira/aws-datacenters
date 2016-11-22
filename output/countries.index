@@ -48,7 +48,7 @@ CK;Cook Islands;ap-southeast-2
 CL;Chile;us-east-1
 CM;Cameroon;eu-west-1
 CN;China;ap-northeast-1
-CO;Colombia;sa-east-1
+CO;Colombia;us-east-1
 CR;Costa Rica;us-east-1
 CU;Cuba;us-east-1
 CV;Cape Verde;eu-west-1
@@ -235,7 +235,7 @@ UY;Uruguay;us-east-1
 UZ;Uzbekistan;ap-south-1
 VA;Holy See (Vatican City State);eu-west-1
 VC;Saint Vincent and the Grenadines;us-east-1
-VE;Venezuela;sa-east-1
+VE;Venezuela;us-east-1
 VG;Virgin Islands, British;us-east-1
 VI;Virgin Islands, U.S.;us-east-1
 VN;Vietnam;ap-southeast-1
