@@ -143,9 +143,9 @@ def main():
         code, tag, name, datacenter = line.rstrip().split(";")
         entries.override_entry(code, name, tag, datacenter)
 
-    entries.write_index("usa", "output/usa.index")
-    entries.write_index("countries", "output/countries.index")
-    entries.write_map("input/map.html.tmpl", "input/cables", "output/map.html")
+    entries.write_index("usa", "aws_datacenters/templates/usa.index")
+    entries.write_index("countries", "aws_datacenters/templates/countries.index")
+    entries.write_map("input/map.html.tmpl", "input/cables", "aws_datacenters/templates/map.html")
 
 
 if __name__ == "__main__":
