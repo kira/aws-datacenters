@@ -2,13 +2,13 @@ A1;Anonymous Proxy;us-east-1
 A2;Satellite Provider;us-east-1
 AD;Andorra;eu-west-1
 AE;United Arab Emirates;ap-southeast-1
-AF;Afghanistan;ap-south-1
+AF;Afghanistan;ap-southeast-1
 AG;Antigua and Barbuda;us-east-1
 AI;Anguilla;us-east-1
 AL;Albania;eu-west-1
 AM;Armenia;eu-west-1
 AN;Netherlands Antilles;us-east-1
-AO;Angola;ap-south-1
+AO;Angola;eu-west-1
 AP;Asia/Pacific Region;ap-northeast-1
 AQ;Antarctica;ap-southeast-2
 AR;Argentina;us-east-1
@@ -19,27 +19,27 @@ AW;Aruba;us-east-1
 AZ;Azerbaijan;eu-west-1
 BA;Bosnia and Herzegovina;eu-west-1
 BB;Barbados;us-east-1
-BD;Bangladesh;ap-south-1
+BD;Bangladesh;ap-southeast-1
 BE;Belgium;eu-west-1
 BF;Burkina Faso;eu-west-1
 BG;Bulgaria;eu-west-1
 BH;Bahrain;eu-west-1
-BI;Burundi;ap-south-1
+BI;Burundi;eu-west-1
 BJ;Benin;eu-west-1
 BM;Bermuda;us-east-1
 BN;Brunei Darussalam;ap-southeast-1
 BO;Bolivia;us-east-1
 BR;Brazil;us-east-1
 BS;Bahamas;us-east-1
-BT;Bhutan;ap-south-1
+BT;Bhutan;ap-southeast-1
 BV;Bouvet Island;ap-southeast-2
-BW;Botswana;ap-south-1
+BW;Botswana;eu-west-1
 BY;Belarus;eu-west-1
 BZ;Belize;us-east-1
 CA;Canada;us-west-2
 CC;Cocos (Keeling) Islands;ap-southeast-1
-CD;Congo, The Democratic Republic of the;ap-south-1
-CF;Central African Republic;ap-south-1
+CD;Congo, The Democratic Republic of the;eu-west-1
+CF;Central African Republic;eu-west-1
 CG;Congo;eu-west-1
 CH;Switzerland;eu-west-1
 CI;Cote d'Ivoire;eu-west-1
@@ -55,7 +55,7 @@ CX;Christmas Island;ap-southeast-1
 CY;Cyprus;eu-west-1
 CZ;Czech Republic;eu-west-1
 DE;Germany;eu-west-1
-DJ;Djibouti;ap-south-1
+DJ;Djibouti;eu-west-1
 DK;Denmark;eu-west-1
 DM;Dominica;us-east-1
 DO;Dominican Republic;us-east-1
@@ -64,9 +64,9 @@ EC;Ecuador;us-east-1
 EE;Estonia;eu-west-1
 EG;Egypt;eu-west-1
 EH;Western Sahara;eu-west-1
-ER;Eritrea;ap-south-1
+ER;Eritrea;eu-west-1
 ES;Spain;eu-west-1
-ET;Ethiopia;ap-south-1
+ET;Ethiopia;eu-west-1
 EU;Europe;eu-west-1
 FI;Finland;eu-west-1
 FJ;Fiji;ap-southeast-2
@@ -101,8 +101,8 @@ HU;Hungary;eu-west-1
 ID;Indonesia;ap-southeast-1
 IE;Ireland;eu-west-1
 IL;Israel;eu-west-1
-IN;India;ap-south-1
-IO;British Indian Ocean Territory;ap-south-1
+IN;India;ap-southeast-1
+IO;British Indian Ocean Territory;ap-southeast-1
 IQ;Iraq;eu-west-1
 IR;Iran, Islamic Republic of;eu-west-1
 IS;Iceland;eu-west-1
@@ -110,11 +110,11 @@ IT;Italy;eu-west-1
 JM;Jamaica;us-east-1
 JO;Jordan;eu-west-1
 JP;Japan;ap-northeast-1
-KE;Kenya;ap-south-1
-KG;Kyrgyzstan;ap-south-1
+KE;Kenya;eu-west-1
+KG;Kyrgyzstan;ap-southeast-1
 KH;Cambodia;ap-southeast-1
 KI;Kiribati;ap-southeast-2
-KM;Comoros;ap-south-1
+KM;Comoros;ap-southeast-1
 KN;Saint Kitts and Nevis;us-east-1
 KP;Korea, Democratic People's Republic of;ap-northeast-1
 KR;Korea, Republic of;ap-northeast-1
@@ -125,7 +125,7 @@ LA;Lao People's Democratic Republic;ap-southeast-1
 LB;Lebanon;eu-west-1
 LC;Saint Lucia;us-east-1
 LI;Liechtenstein;eu-west-1
-LK;Sri Lanka;ap-south-1
+LK;Sri Lanka;ap-southeast-1
 LR;Liberia;eu-west-1
 LS;Lesotho;ap-southeast-1
 LT;Lithuania;eu-west-1
@@ -149,12 +149,12 @@ MR;Mauritania;eu-west-1
 MS;Montserrat;us-east-1
 MT;Malta;eu-west-1
 MU;Mauritius;ap-southeast-1
-MV;Maldives;ap-south-1
-MW;Malawi;ap-south-1
+MV;Maldives;ap-southeast-1
+MW;Malawi;ap-southeast-1
 MX;Mexico;us-east-1
 MY;Malaysia;ap-southeast-1
 MZ;Mozambique;ap-southeast-1
-NA;Namibia;ap-south-1
+NA;Namibia;eu-west-1
 NC;New Caledonia;ap-southeast-2
 NE;Niger;eu-west-1
 NF;Norfolk Island;ap-southeast-2
@@ -162,7 +162,7 @@ NG;Nigeria;eu-west-1
 NI;Nicaragua;us-east-1
 NL;Netherlands;eu-west-1
 NO;Norway;eu-west-1
-NP;Nepal;ap-south-1
+NP;Nepal;ap-southeast-1
 NR;Nauru;ap-southeast-2
 NU;Niue;ap-southeast-2
 NZ;New Zealand;ap-southeast-2
@@ -173,24 +173,24 @@ PE;Peru;us-east-1
 PF;French Polynesia;us-west-2
 PG;Papua New Guinea;ap-southeast-2
 PH;Philippines;ap-southeast-1
-PK;Pakistan;ap-south-1
+PK;Pakistan;ap-southeast-1
 PL;Poland;eu-west-1
 PM;Saint Pierre and Miquelon;us-east-1
 PR;Puerto Rico;us-east-1
-PS;Palestinian Territory;ap-south-1
+PS;Palestinian Territory;eu-west-1
 PT;Portugal;eu-west-1
 PW;Palau;ap-northeast-1
 PY;Paraguay;us-east-1
 QA;Qatar;eu-west-1
-RE;Reunion;ap-south-1
+RE;Reunion;ap-southeast-1
 RO;Romania;eu-west-1
 RS;Serbia;eu-west-1
 RU;Russian Federation;ap-northeast-1
-RW;Rwanda;ap-south-1
+RW;Rwanda;eu-west-1
 SA;Saudi Arabia;eu-west-1
 SB;Solomon Islands;ap-southeast-2
-SC;Seychelles;ap-south-1
-SD;Sudan;ap-south-1
+SC;Seychelles;ap-southeast-1
+SD;Sudan;eu-west-1
 SE;Sweden;eu-west-1
 SG;Singapore;ap-southeast-1
 SH;Saint Helena;eu-west-1
@@ -211,7 +211,7 @@ TD;Chad;eu-west-1
 TF;French Southern Territories;ap-southeast-1
 TG;Togo;eu-west-1
 TH;Thailand;ap-southeast-1
-TJ;Tajikistan;ap-south-1
+TJ;Tajikistan;ap-southeast-1
 TK;Tokelau;ap-southeast-2
 TM;Turkmenistan;eu-west-1
 TN;Tunisia;eu-west-1
@@ -222,7 +222,7 @@ TV;Tuvalu;ap-southeast-2
 TW;Taiwan;ap-northeast-1
 TZ;Tanzania, United Republic of;ap-southeast-1
 UA;Ukraine;eu-west-1
-UG;Uganda;ap-south-1
+UG;Uganda;eu-west-1
 UM;United States Minor Outlying Islands;ap-northeast-1
 US;United States;us-east-1
 UY;Uruguay;us-east-1
@@ -237,7 +237,7 @@ VU;Vanuatu;ap-southeast-2
 WF;Wallis and Futuna;ap-southeast-2
 WS;Samoa;ap-southeast-2
 YE;Yemen;ap-southeast-1
-YT;Mayotte;ap-south-1
+YT;Mayotte;ap-southeast-1
 ZA;South Africa;ap-southeast-1
-ZM;Zambia;ap-south-1
-ZW;Zimbabwe;ap-south-1
+ZM;Zambia;ap-southeast-1
+ZW;Zimbabwe;ap-southeast-1
