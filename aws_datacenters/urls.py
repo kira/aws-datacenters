@@ -5,5 +5,5 @@ from aws_datacenters.views import *
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^/', MediaServerMap.as_view()),
+    url(r'^', MediaServerMap.as_view()),
 ]
