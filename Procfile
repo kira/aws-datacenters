@@ -1,1 +1,1 @@
-web: gunicorn aws-datacenters.wsgi --log-file -
+web: gunicorn aws_datacenters.wsgi --log-file -
