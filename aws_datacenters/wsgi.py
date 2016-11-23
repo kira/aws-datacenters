@@ -1,5 +1,5 @@
 """
-WSGI config for nest_override project.
+WSGI config for aws_datacenters project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
